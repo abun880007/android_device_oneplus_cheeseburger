@@ -1,0 +1,12 @@
+add_lunch_combo tub_cheeseburger-userdebug
+add_lunch_combo tub_cheeseburger-user
+add_lunch_combo tub_cheeseburger-eng
+add_lunch_combo tub_cheeseburger
+add_lunch_combo rr_cheeseburger-userdebug
+add_lunch_combo rr_cheeseburger-user
+add_lunch_combo rr_cheeseburger-eng
+add_lunch_combo rr_cheeseburger
+add_lunch_combo aosp_cheeseburger-userdebug
+add_lunch_combo aosp_cheeseburger-user
+add_lunch_combo aosp_cheeseburger-eng
+add_lunch_combo aosp_cheeseburger
